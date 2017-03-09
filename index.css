@@ -3,11 +3,16 @@ h1 {
   text-align: center;
 }
 
-
-
 p {
   color: green;
   text-align: left;
 }
+
 body {background-color: #f1bb1b;}
-nav {text-align: center;}
+
+nav {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.image {text-align: center;}
