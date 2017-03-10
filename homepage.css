@@ -1,0 +1,6 @@
+div {
+  background-image: url("background.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+nav {text-align: right;}
