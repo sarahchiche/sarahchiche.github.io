@@ -26,3 +26,10 @@
   width: 65px;
   text-align: center;
 }
+
+.link:hover {
+  background-color: #0c4e48;
+  color: white;
+
+
+}
